@@ -1,0 +1,172 @@
+{
+    "data": [
+        {
+            "img": "https://b.zmtcdn.com/data/dish_photos/da6/9d02cee545d61b90548ec6668ef83da6.jpg",
+            "totalvote": 500,
+            "reviews": 4.5,
+            "price": 50,
+            "paymethod": {
+                "card": true,
+                "cash": false,
+                "upi": true
+            },
+            "name": "Veg Roll"
+        },
+       {
+            "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lqfgzjiakety4hnedjyw",
+            "totalvote": 500,
+            "reviews": 4.4,
+            "price": 500,
+            "paymethod": {
+                "card": true,
+                "cash": false,
+                "upi": true
+            },
+            "name": " Mc burger"
+        },{
+            "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ryrxqsplo49j97qxhxlv",
+            "totalvote": 400,
+            "reviews": 2.5,
+            "price": 550,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Wendy S"
+        },{
+            "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/u3ubwcgga6rr9jdxxobx",
+            "totalvote": 1200,
+            "reviews": 1,
+            "price": 450,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Papariza"
+        },{
+            "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/b0h47qxxix9btal3jqoo",
+            "totalvote": 500,
+            "reviews": 3,
+            "price": 50,
+            "paymethod": {
+                "card": true,
+                "cash": false,
+                "upi": true
+            },
+            "name": "Tikki Juction"
+        },{
+            "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kcoiuhxtckbyqj0tr6vh",
+            "totalvote": 5500,
+            "reviews": 2,
+            "price": 750,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Shagun"
+        },{
+            "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/s9tre35btndvlnw173ax",
+            "totalvote": 500,
+            "reviews": 5,
+            "price": 50,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Mr curet bakers"
+        },{
+            "img": "https://b.zmtcdn.com/data/dish_photos/fee/71de13418d4af74e20fb49745ea67fee.jpg",
+            "totalvote": 500,
+            "reviews": 4,
+            "price": 50,
+            "paymethod": {
+                "card": true,
+                "cash": false,
+                "upi": true
+            },
+            "name": "Radha spl"
+        },{
+            "img": "https://b.zmtcdn.com/data/pictures/3/19228613/e6eecdab81262d3096d85016f5d3ac15_o2_featured_v2.jpg",
+            "totalvote": 500,
+            "reviews": 2.4,
+            "price": 250,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Curry"
+        },{
+            "img": "https://b.zmtcdn.com/data/pictures/6/18984586/23e1f22afe747731d2a602d6abc6701c_o2_featured_v2.jpg",
+            "totalvote": 500,
+            "reviews": 2,
+            "price": 50,
+            "paymethod": {
+                "card": true,
+                "cash": false,
+                "upi": true
+            },
+            "name": "Rekha Rasgulla"
+        }
+        ,{
+            "img": "https://b.zmtcdn.com/data/dish_photos/0cb/936416678322ef4ebce77707045510cb.jpg?fit=around|130:130&crop=130:130;*,*",
+            "totalvote": 500,
+            "reviews": 3.4,
+            "price": 50,
+            "paymethod": {
+                "card": true,
+                "cash": false,
+                "upi": true
+            },
+            "name": "Aalu Tiki Burger"
+        },{
+            "img": "https://b.zmtcdn.com/data/dish_photos/126/0b43537525e146d8fcab19e5d3d35126.jpg",
+            "totalvote": 500,
+            "reviews": 5,
+            "price": 50,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Bread"
+        },{
+            "img": "https://b.zmtcdn.com/data/dish_photos/cfc/a7772c817a35ac9df944dfbe8cc03cfc.png",
+            "totalvote": 600,
+            "reviews": 4.5,
+            "price": 400,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Ramesh ice Cream"
+        },{
+            "img": "https://b.zmtcdn.com/data/dish_photos/9f0/423b40bf50a7b13477b088d9531d69f0.png",
+            "totalvote": 500,
+            "reviews": 3.9,
+            "price": 250,
+            "paymethod": {
+                "card": true,
+                "cash": true,
+                "upi": true
+            },
+            "name": "Pasta king"
+        },{
+            "img": "https://b.zmtcdn.com/data/dish_photos/559/6cc657301cb476250f256f02e2776559.jpg?output-format=webp",
+            "totalvote": 500,
+            "reviews": 4.4,
+            "price": 150,
+            "paymethod": {
+                "card": true,
+               "cash": true,
+                "upi": true
+            },
+            "name": "Burger "
+        }
+    ]
+}
